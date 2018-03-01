@@ -1,4 +1,4 @@
-A simple ASCII Art of a rocket nozzle.
+ASCII art of rocket nozzles
 
 ```
           _  
